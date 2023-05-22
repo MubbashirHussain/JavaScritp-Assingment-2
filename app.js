@@ -591,24 +591,3 @@ switch(UserCitysName){
         break;
     default:alert("Sorry You're City Not Found in Our List");
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
